@@ -1,114 +1,304 @@
-#EXTM3U
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]7 TV Murcia[/COLOR][/B]</title>
+<link>https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w1858657114_b565000.m3u8</link>
+<thumbnail>https://archive.org/download/7_20230505_20230505_1818/7.jpg</thumbnail>
+<fanart>https://archive.org/download/7_20230505_20230505_1818/7.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/7_20230505_20230505_1818/7.jpg" group-title="España",[COLORlime]7 TV Murcia[/COLOR]
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/chunklist_w1858657114_b565000.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]13 TV[/COLOR][/B]</title>
+<link>https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8</link>
+<thumbnail>https://archive.org/download/13-TV/13%20TV.jpg</thumbnail>
+<fanart>https://archive.org/download/13-TV/13%20TV.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/13-TV/13%20TV.jpg" group-title="España",[COLORlime]13 TV[/COLOR]
-https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Altar de Adoracion 7-24[/COLOR][/B]</title>
+<link>https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8</link>
+<thumbnail>https://archive.org/download/altar_202305/Altar.jpg</thumbnail>
+<fanart>https://archive.org/download/altar_202305/Altar.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/altar_202305/Altar.jpg" group-title="España",[COLORlime] Altar de Adoracion 7-24[/COLOR]
-https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Canal 45[/COLOR][/B]</title>
+<link>https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/fragments/live-1500/index.m3u8</link>
+<thumbnail>https://archive.org/download/Canal-45/Canal%2045.jpg</thumbnail>
+<fanart>https://archive.org/download/Canal-45/Canal%2045.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/Canal-45/Canal%2045.jpg" group-title="España",[COLORlime]Canal 45[/COLOR]
-https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/fragments/live-1500/index.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Canal 324[/COLOR][/B]</title>
+<link>https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8</link>
+<thumbnail>https://archive.org/download/Canal-324/Canal%20324.jpg</thumbnail>
+<fanart>https://archive.org/download/Canal-324/Canal%20324.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/Canal-324/Canal%20324.jpg" group-title="España",[COLORlime]Canal 324[/COLOR]
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Canal Diocesano[/COLOR][/B]</title>
+<link>https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8</link>
+<thumbnail>https://archive.org/download/canal-diocesano_202305/Canal%20Diocesano.jpg</thumbnail>
+<fanart>https://archive.org/download/canal-diocesano_202305/Canal%20Diocesano.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/canal-diocesano_202305/Canal%20Diocesano.jpg" group-title="España",[COLORlime]Canal Diocesano[/COLOR]
-https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Canal Extremadura[/COLOR][/B]</title>
+<link>https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8</link>
+<thumbnail>https://archive.org/download/Canal-Extremadura/Canal%20Extremadura.jpg</thumbnail>
+<fanart>https://archive.org/download/Canal-Extremadura/Canal%20Extremadura.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/Canal-Extremadura/Canal%20Extremadura.jpg" group-title="España",[COLORlime]Canal Extremadura[/COLOR]
-https://cdnlivevlc.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Canal Sur[/COLOR][/B]</title>
+<link>https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8</link>
+<thumbnail>https://archive.org/download/Canal-Sur/Canal%20Sur.jpg</thumbnail>
+<fanart>https://archive.org/download/Canal-Sur/Canal%20Sur.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/Canal-Sur/Canal%20Sur.jpg" group-title="España",[COLORlime]Canal Sur[/COLOR]
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Canela Hits[/COLOR][/B]</title>
+<link>https://stream.ads.ottera.tv/cl/230505chagj43g8bq0s0lq0mh0/854x480_1355200_2_f.m3u8?i=475_1058</link>
+<thumbnail>https://archive.org/download/Canela-hits_202305/Canela%20Hits.jpg</thumbnail>
+<fanart>https://archive.org/download/Canela-hits_202305/Canela%20Hits.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/Canela-hits_202305/Canela%20Hits.jpg" group-title="España",[COLORlime]Canela Hits[/COLOR]
-https://stream.ads.ottera.tv/cl/230505chagj43g8bq0s0lq0mh0/854x480_1355200_2_f.m3u8?i=475_1058
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Cine Romántico[/COLOR][/B]</title>
+<link>https://stream.ads.ottera.tv/cl/230504cha2h45io1t22vs77kug/854x480_550000_3_f.m3u8?i=475_656</link>
+<thumbnail>https://archive.org/download/cine-r/Cine%20R.jpg</thumbnail>
+<fanart>https://archive.org/download/cine-r/Cine%20R.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/cine-r/Cine%20R.jpg" group-title="España",[COLORlime]Cine Romántico[/COLOR]
-https://stream.ads.ottera.tv/cl/230504cha2h45io1t22vs77kug/854x480_550000_3_f.m3u8?i=475_656
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Distrito TV[/COLOR][/B]</title>
+<link>https://nlb1-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8</link>
+<thumbnail>https://archive.org/download/distrito-tv_202305/Distrito%20TV.jpg</thumbnail>
+<fanart>https://archive.org/download/distrito-tv_202305/Distrito%20TV.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/distrito-tv_202305/Distrito%20TV.jpg" group-title="España",[COLORlime]Distrito TV[/COLOR]
-https://nlb1-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]dotb Durangaldeko Telebista[/COLOR][/B]</title>
+<link>https://nlb1-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/fragments/live-2000/index.m3u8</link>
+<thumbnail>https://archive.org/download/dotb-durangaldeko-telebista/dotb%20Durangaldeko%20Telebista.jpg</thumbnail>
+<fanart>https://archive.org/download/dotb-durangaldeko-telebista/dotb%20Durangaldeko%20Telebista.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/dotb-durangaldeko-telebista/dotb%20Durangaldeko%20Telebista.jpg" group-title="España",[COLORlime]dotb Durangaldeko Telebista[/COLOR]
-https://nlb1-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/fragments/live-2000/index.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]ETB Basque[/COLOR][/B]</title>
+<link>https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8</link>
+<thumbnail>https://archive.org/download/ETB-Basco/ETB%20Basque.jpg</thumbnail>
+<fanart>https://archive.org/download/ETB-Basco/ETB%20Basque.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/ETB-Basco/ETB%20Basque.jpg" group-title="España",[COLORlime]ETB Basque[/COLOR]
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Euronews En Español[/COLOR][/B]</title>
+<link>https://stream.ads.ottera.tv/cl/230504cha2cnbg8bq0s0lm16vg/1280x720_1500000_0_f.m3u8?i=950_2577</link>
+<thumbnail>https://archive.org/download/euronews-pt/Euronews%20En.jpg</thumbnail>
+<fanart>https://archive.org/download/euronews-pt/Euronews%20En.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/euronews-pt/Euronews%20En.jpg" group-title="España",[COLORlime]Euronews En Español[/COLOR]
-https://stream.ads.ottera.tv/cl/230504cha2cnbg8bq0s0lm16vg/1280x720_1500000_0_f.m3u8?i=950_2577
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Hispan TV[/COLOR][/B]</title>
+<link>https://live1.presstv.ir/live/hispan_360p/index.m3u8</link>
+<thumbnail>https://archive.org/download/Hispan-TV/Hispan%20TV.jpg</thumbnail>
+<fanart>https://archive.org/download/Hispan-TV/Hispan%20TV.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/Hispan-TV/Hispan%20TV.jpg" group-title="España",[COLORlime]Hispan TV[/COLOR]
-https://live1.presstv.ir/live/hispan_360p/index.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]BonDia TV[/COLOR][/B]</title>
+<link>https://directes-tv-int.ccma.cat/live-origin/bondia-hls/bitrate_1.m3u8</link>
+<thumbnail>https://archive.org/download/bon-dia-tv/BonDia%20TV.jpg</thumbnail>
+<fanart>https://archive.org/download/bon-dia-tv/BonDia%20TV.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/bon-dia-tv/BonDia%20TV.jpg" group-title="España",[COLORlime]BonDia TV[/COLOR]
-https://directes-tv-int.ccma.cat/live-origin/bondia-hls/bitrate_1.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Ibiza Global Tv[/COLOR][/B]</title>
+<link>https://nodo06-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8</link>
+<thumbnail>https://archive.org/download/ibiza-global-tv_202305/Ibiza%20Global%20Tv.jpg</thumbnail>
+<fanart>https://archive.org/download/ibiza-global-tv_202305/Ibiza%20Global%20Tv.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/ibiza-global-tv_202305/Ibiza%20Global%20Tv.jpg" group-title="España",[COLORlime]Ibiza Global Tv[/COLOR]
-https://nodo06-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Lancelot Televisión[/COLOR][/B]</title>
+<link>https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8</link>
+<thumbnail>https://archive.org/download/lancelot-tn/Lancelot%20Tn.jpg</thumbnail>
+<fanart>https://archive.org/download/lancelot-tn/Lancelot%20Tn.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/lancelot-tn/Lancelot%20Tn.jpg" group-title="España",[COLORlime]Lancelot Televisión[/COLOR]
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Logos Tv[/COLOR][/B]</title>
+<link>https://streamer1.streamhost.org/salive/logosH/chunklist_w168103485.m3u8</link>
+<thumbnail>https://archive.org/download/logos-tv_202305/Logos%20Tv.jpg</thumbnail>
+<fanart>https://archive.org/download/logos-tv_202305/Logos%20Tv.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/logos-tv_202305/Logos%20Tv.jpg" group-title="España",[COLORlime]Logos Tv[/COLOR]
-https://streamer1.streamhost.org/salive/logosH/chunklist_w168103485.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Onda Cádiz[/COLOR][/B]</title>
+<link>https://adc-hls.flumotion.com/adc/live_480p/chunks.m3u8</link>
+<thumbnail>https://archive.org/download/onda-c/Onda%20C.jpg</thumbnail>
+<fanart>https://archive.org/download/onda-c/Onda%20C.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/onda-c/Onda%20C.jpg" group-title="España",[COLORlime]Onda Cádiz[/COLOR]
-https://adc-hls.flumotion.com/adc/live_480p/chunks.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Play Ibiza[/COLOR][/B]</title>
+<link>https://d410380561e9471dab5b085811cbb01c.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-MUX-Ayozat/0bd5fbcb-4530-45a6-b703-2dde1b3a09c9/2.m3u8</link>
+<thumbnail>https://archive.org/download/play-ibiza/Play%20Ibiza.jpg</thumbnail>
+<fanart>https://archive.org/download/play-ibiza/Play%20Ibiza.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/play-ibiza/Play%20Ibiza.jpg" group-title="España",[COLORlime]Play Ibiza[/COLOR]
-https://d410380561e9471dab5b085811cbb01c.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-MUX-Ayozat/0bd5fbcb-4530-45a6-b703-2dde1b3a09c9/2.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Real Madrid TV[/COLOR][/B]</title>
+<link>https://stream.ads.ottera.tv/cl/230504cha06urg8bq0s0ll36ng/1920x1080_5701132_5_f.m3u8?i=475_1545</link>
+<thumbnail>https://archive.org/download/real-madrid-tv/Real%20Madrid%20TV.jpg</thumbnail>
+<fanart>https://archive.org/download/real-madrid-tv/Real%20Madrid%20TV.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/real-madrid-tv/Real%20Madrid%20TV.jpg" group-title="España",[COLORlime]Real Madrid TV[/COLOR]
-https://stream.ads.ottera.tv/cl/230504cha06urg8bq0s0ll36ng/1920x1080_5701132_5_f.m3u8?i=475_1545
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Ritmos Inolvidables[/COLOR][/B]</title>
+<link>https://stream.ads.ottera.tv/cl/230504cha33abg8bq0s0lmamc0/854x480_550000_3_f.m3u8?i=475_1081</link>
+<thumbnail>https://archive.org/download/ritmos-inolvidables/Ritmos%20Inolvidables.jpg</thumbnail>
+<fanart>https://archive.org/download/ritmos-inolvidables/Ritmos%20Inolvidables.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/ritmos-inolvidables/Ritmos%20Inolvidables.jpg" group-title="España",[COLORlime]Ritmos Inolvidables[/COLOR]
-https://stream.ads.ottera.tv/cl/230504cha33abg8bq0s0lmamc0/854x480_550000_3_f.m3u8?i=475_1081
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]RTV Vida[/COLOR][/B]</title>
+<link>https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8</link>
+<thumbnail>https://archive.org/download/rtv-vida_202305/RTV%20Vida.jpg</thumbnail>
+<fanart>https://archive.org/download/rtv-vida_202305/RTV%20Vida.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/rtv-vida_202305/RTV%20Vida.jpg" group-title="España",[COLORlime]RTV Vida[/COLOR]
-https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Runtime Español - Cine Y Series[/COLOR][/B]</title>
+<link>https://stream.ads.ottera.tv/cl/230504cha1s3bjdm8fonriv7ng/854x480_1355200_2_f.m3u8?i=475_2152</link>
+<thumbnail>https://archive.org/download/r_20230505/R.jpg</thumbnail>
+<fanart>https://archive.org/download/r_20230505/R.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/r_20230505/R.jpg" group-title="España",[COLORlime]Runtime Español - Cine Y Series[/COLOR]
-https://stream.ads.ottera.tv/cl/230504cha1s3bjdm8fonriv7ng/854x480_1355200_2_f.m3u8?i=475_2152
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Runtime Español[/COLOR][/B]</title>
+<link>https://stream.ads.ottera.tv/cl/230504cha23p9pnj1vb8te7u30/854x480_1355200_2_f.m3u8?i=475_2649</link>
+<thumbnail>https://archive.org/download/runtime_202305/Runtime.jpg</thumbnail>
+<fanart>https://archive.org/download/runtime_202305/Runtime.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/runtime_202305/Runtime.jpg" group-title="España",[COLORlime]Runtime Español[/COLOR]
-https://stream.ads.ottera.tv/cl/230504cha23p9pnj1vb8te7u30/854x480_1355200_2_f.m3u8?i=475_2649
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]San Roque Tv[/COLOR][/B]</title>
+<link>https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/chunklist_b1500000.m3u8</link>
+<thumbnail>https://archive.org/download/SA-ROQUE-TV/SRoque%20Tv.jpg</thumbnail>
+<fanart>https://archive.org/download/SA-ROQUE-TV/SRoque%20Tv.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/SA-ROQUE-TV/SRoque%20Tv.jpg" group-title="España",[COLORlime]San Roque Tv[/COLOR]
-https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/chunklist_b1500000.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Solidaria TV[/COLOR][/B]</title>
+<link>https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8</link>
+<thumbnail>https://archive.org/download/stv_20230505/STV.jpg</thumbnail>
+<fanart>https://archive.org/download/stv_20230505/STV.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/stv_20230505/STV.jpg" group-title="España",[COLORlime]Solidaria TV[/COLOR]
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TBN España[/COLOR][/B]</title>
+<link>https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8</link>
+<thumbnail>https://ia902608.us.archive.org/17/items/tbn_20230505/TBN.jpg</thumbnail>
+<fanart>https://ia902608.us.archive.org/17/items/tbn_20230505/TBN.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia902608.us.archive.org/17/items/tbn_20230505/TBN.jpg" group-title="España",[COLORlime]TBN España[/COLOR]
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Teleganés[/COLOR][/B]</title>
+<link>https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/fragments/live-2000/index.m3u8</link>
+<thumbnail>https://archive.org/download/Telega/Telega.jpg</thumbnail>
+<fanart>https://archive.org/download/Telega/Telega.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/Telega/Telega.jpg" group-title="España",[COLORlime]Teleganés[/COLOR]
-https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/fragments/live-2000/index.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Telemadrid[/COLOR][/B]</title>
+<link>https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8</link>
+<thumbnail>https://archive.org/download/telemadrid_202305/Telemadrid.jpg</thumbnail>
+<fanart>https://archive.org/download/telemadrid_202305/Telemadrid.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/telemadrid_202305/Telemadrid.jpg" group-title="España",[COLORlime]Telemadrid[/COLOR]
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Teve 4[/COLOR][/B]</title>
+<link>https://nlb1-live.emitstream.com/hls/646wzsnqyforndavy6de/fragments/teve4/index.m3u8</link>
+<thumbnail>https://archive.org/download/TEVE-4/Teve%204.jpg</thumbnail>
+<fanart>https://archive.org/download/TEVE-4/Teve%204.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/TEVE-4/Teve%204.jpg" group-title="España",[COLORlime]Teve 4[/COLOR]
-https://nlb1-live.emitstream.com/hls/646wzsnqyforndavy6de/fragments/teve4/index.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Toon Goggles en Español[/COLOR][/B]</title>
+<link>https://stream.ads.ottera.tv/cl/230504cha3ts9opv5pil5u2350/1280x720_3071200_0_f.m3u8?i=475_771</link>
+<thumbnail>https://archive.org/download/toon-g/Toon%20G.jpg</thumbnail>
+<fanart>https://archive.org/download/toon-g/Toon%20G.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/toon-g/Toon%20G.jpg" group-title="España",[COLORlime]Toon Goggles en Español[/COLOR]
-https://stream.ads.ottera.tv/cl/230504cha3ts9opv5pil5u2350/1280x720_3071200_0_f.m3u8?i=475_771
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Tv Barbastro[/COLOR][/B]</title>
+<link>https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8</link>
+<thumbnail>https://archive.org/download/TV-barbastro_202305/Tv%20Barbastro.jpg</thumbnail>
+<fanart>https://archive.org/download/TV-barbastro_202305/Tv%20Barbastro.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/TV-barbastro_202305/Tv%20Barbastro.jpg" group-title="España",[COLORlime]Tv Barbastro[/COLOR]
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]Tv Melilla[/COLOR][/B]</title>
+<link>https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_med/chunks.m3u8</link>
+<thumbnail>https://archive.org/download/TV-melilla_202305/Tv%20Melilla.jpg</thumbnail>
+<fanart>https://archive.org/download/TV-melilla_202305/Tv%20Melilla.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/TV-melilla_202305/Tv%20Melilla.jpg" group-title="España",[COLORlime]Tv Melilla[/COLOR]
-https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_med/chunks.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TVE-24h[/COLOR][/B]</title>
+<link>https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8</link>
+<thumbnail>https://archive.org/download/TV-24h/TVE%20-%2024h.jpg</thumbnail>
+<fanart>https://archive.org/download/TV-24h/TVE%20-%2024h.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/TV-24h/TVE%20-%2024h.jpg" group-title="España",[COLORlime]TVE-24h[/COLOR]
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
+<item>
+<title>[B][COLOR lime]●[/COLOR] [COLOR gold]TVG-Galicia TV América[/COLOR][/B]</title>
+<link>https://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8</link>
+<thumbnail>https://archive.org/download/tvg_20230505/TVG.jpg</thumbnail>
+<fanart>https://archive.org/download/tvg_20230505/TVG.jpg</fanart>
+<info>[COLOR yellow]Se o canal da live TV estiver fora do ar, isso pode significar que há um problema de conexão com a internet ou que o servidor que hospeda o link está com problemas técnicos.[/COLOR]</info>
+</item>
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/tvg_20230505/TVG.jpg" group-title="España",[COLORlime]TVG-Galicia TV América[/COLOR]
-https://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
+
+
+
+
+
+
 
 
